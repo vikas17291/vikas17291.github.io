@@ -1,12 +1,12 @@
 {
-  "name": "webstoemp",
-  "description": "Personal website of Jérôme Coupé",
+  "name": "The Math Doctor",
+  "description": "",
   "version": "2.0.0",
-  "author": "Jérôme Coupé",
+  "author": "Vikas Srivastava",
   "license": "UNLICENSED",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jeromecoupe/jeromecoupe.github.io"
+    "url": "https://github.com/vikas17291/vikas17291.github.io/"
   },
   "browserslist": [
     "last 2 versions",
