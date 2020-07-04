@@ -9,11 +9,7 @@
     "navTrigger": "blog",
     "navUrl": "/blog/"
   },
-  {
-    "navLabel": "Work",
-    "navTrigger": "work",
-    "navUrl": "/work/"
-  },
+ 
   {
     "navLabel": "Contact",
     "navTrigger": "contact",
