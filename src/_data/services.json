@@ -4,15 +4,15 @@
     "icon": "icon-service-strategy.svg",
     "description": "Take as many demo classes as you want and decide for yourself the quality of education offered here."
   },
-  {
-    "title": "Design systems",
+   {
+    "title": "Learn from home",
     "icon": "icon-service-systems.svg",
-    "description": "Design systems are one of the best tools I know to document design patterns and principles in order to bridge the gap between design and development."
+    "description": "No need to run around coaching centres. Get personalized one-to-one, face-to-face interactive classes from the safety of your home"
   },
-  {
-    "title": "Front-end code",
+   {
+    "title": "Affordable Prices",
     "icon": "icon-service-frontend.svg",
-    "description": "HTML, CSS and JavaScript are my bread and butter. I like to move to code as soon as possible to materialise responsive layouts, typography and interactivity."
+    "description": "Not everybody comes from the same economic background, and I understand that. We will decide prices as per your parents's economic condition. Don't worry about the prices, as it would never be a problem."
   },
   {
     "title": "UX and design",
