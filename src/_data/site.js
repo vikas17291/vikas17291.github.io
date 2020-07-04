@@ -1,8 +1,8 @@
 module.exports = {
-  title: "Webstoemp",
+  title: "The Math Doctor",
   description:
-    "Webstoemp is the portfolio and blog of Jérôme Coupé, a designer and front-end developer from Brussels, Belgium.",
-  url: "https://www.webstoemp.com",
+    "Portfolio of Vikas Srivastava",
+  url: "",
   baseUrl: "/",
   author: "Jerôme Coupé",
   authorTwitter: "@jeromecoupe",
