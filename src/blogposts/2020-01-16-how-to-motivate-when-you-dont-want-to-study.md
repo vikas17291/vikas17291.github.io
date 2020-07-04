@@ -16,12 +16,12 @@ The thing which can motivate you most are your dreams. Think about your dreams a
   
   Starting your study session is tough. But keeping the motivation throughout is not easy either. Change the subjects in between to prevent getting bored.
   
-**  
+ 
   Take short breaks in between your study session to refresh the brain. Eat snacks and relax during the break. **Do not immerse yourself in video games or television. Otherwise, it will elongate your break from minutes to hours. Let your mind rest. Praise yourself for the discipline you just showed. It will tempt you to show the discipline again.
   
   Sometimes the reason for not feeling like studying is the perceived difficulty. If the subject is too difficult, students try to avoid studying. Get friends to study with you in such cases.
   
-**  Group study work well for some students. You might want to give it a try and get the help of your friends in understanding tough topics.** Just ensure that all the friends participating are in a mood to study as well. Or else your study session will turn into fun get together.
+**Group study work well for some students. You might want to give it a try and get the help of your friends in understanding tough topics.** Just ensure that all the friends participating are in a mood to study as well. Or else your study session will turn into fun get together.
 
 
 *Motivation is generally very short term. It fades away in time if it does not have a solid vision associated with it. You will not get the same adrenaline rush every day after watching a motivational video.*
@@ -36,7 +36,7 @@ The thing which can motivate you most are your dreams. Think about your dreams a
 
 We are emphasizing walks because it is an equipment-free activity. It is a mild physical movement with minimal fatigue. It allows your brain to rest and think for a while. After physical activity, your focus and concentration increase for a long period.
 
-####**Focus on one work at a time**
+#### Focus on one work at a time
 
 This is an important habit to inculcate in your lifestyle. As a student, you will have several works to handle in a day. Patiently write them down individually early morning. Basically, prepare a to-do list of things to study. Break your study syllabus into tasks. During the day, pick one task at a time. Decide which task you will do at this moment. You will be focusing all your commitment to this work.
 
